@@ -1,0 +1,9 @@
+body{
+    background-color: brown;
+}
+.main-container{
+    display: flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: coral;
+    margin: 10px;
+}
