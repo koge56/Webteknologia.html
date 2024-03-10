@@ -1,0 +1,8 @@
+.numbers{
+    margin: auto;
+    width: 1000px;
+    border-style:dashed;
+    padding: 1%;
+    background-color: grey;
+    margin-top: 50px;
+}

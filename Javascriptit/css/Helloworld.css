@@ -1,0 +1,11 @@
+.maps{
+    margin: auto;
+    width: 50%;
+    border-style:dashed;
+    padding: 1%;
+    background-color: grey;
+    margin-top: 50px;
+    text-align: center;
+}
+
+

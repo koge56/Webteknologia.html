@@ -1,0 +1,9 @@
+.kuvat {
+    margin: auto;
+    width: 600px;
+    border-style: dashed;
+    padding: 1%;
+    background-color: grey;
+    margin-top: 40px;
+    text-align: center;
+}
