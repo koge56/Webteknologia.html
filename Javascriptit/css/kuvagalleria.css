@@ -1,0 +1,24 @@
+.kaikki {
+    margin: auto;
+    width: 600px;
+    border-style: dashed;
+    padding: 1%;
+    background-color: grey;
+    margin-top: 40px;
+    text-align: center;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+}
+.list-container{
+    display: grid;
+    grid-template-columns: auto;
+
+    grid-gap: 10px;
+}
+.napit{
+    margin-right: 50%;
+    margin-left: 50%;
+}
