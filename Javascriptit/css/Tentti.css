@@ -1,0 +1,15 @@
+.flex-parent-element {
+    display: flex;
+    width: 50%;
+  }
+
+.pizza{
+ flex: 1;
+  margin: 10px;
+}
+
+
+.valinnat{
+    margin-right: 20px;
+    width: 50%;
+}
